@@ -1,0 +1,12 @@
+/target
+.settings/
+.classpath
+.project
+release.properties
+*.releaseBackup
+dependency-reduced-pom.xml
+.idea/
+*.iml
+report/
+.gradle/
+/build
