@@ -1,8 +1,8 @@
 # Technical Comparison of an SQL and GraphDatabase
 
-####Author: Alexander Falk
-####Date: 24/04/2018
-####Course: Database by Developers
+#### Author: Alexander Falk
+#### Date: 24/04/2018
+#### Course: Database by Developers
 
 1. NEO4j: 
 
